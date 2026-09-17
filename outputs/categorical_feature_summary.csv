@@ -1,0 +1,19 @@
+Feature,Category,Customers,Churn_Rate
+Contract,Month-to-month,3875,42.70967741935484
+Contract,One year,1473,11.269517990495586
+Contract,Two year,1695,2.831858407079646
+InternetService,DSL,2421,18.95910780669145
+InternetService,Fiber optic,3096,41.89276485788114
+InternetService,No,1526,7.404980340760157
+PaymentMethod,Bank transfer (automatic),1544,16.709844559585495
+PaymentMethod,Credit card (automatic),1522,15.243101182654403
+PaymentMethod,Electronic check,2365,45.28541226215645
+PaymentMethod,Mailed check,1612,19.106699751861044
+TechSupport,No,3473,41.63547365390153
+TechSupport,No internet service,1526,7.404980340760157
+TechSupport,Yes,2044,15.166340508806261
+OnlineSecurity,No,3498,41.76672384219554
+OnlineSecurity,No internet service,1526,7.404980340760157
+OnlineSecurity,Yes,2019,14.611193660227837
+PaperlessBilling,No,2872,16.33008356545961
+PaperlessBilling,Yes,4171,33.565092304003834

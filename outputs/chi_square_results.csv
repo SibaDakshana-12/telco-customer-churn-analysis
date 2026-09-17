@@ -1,0 +1,7 @@
+Feature,Chi2,p_value,Significant (α=0.05)
+Contract,1184.6,5.863038300673391e-258,Yes
+InternetService,732.31,9.571788222840544e-160,Yes
+PaymentMethod,648.14,3.6823546520097993e-140,Yes
+TechSupport,828.2,1.4430840279998987e-180,Yes
+OnlineSecurity,850.0,2.661149635176552e-185,Yes
+PaperlessBilling,258.28,4.073354668665985e-58,Yes
